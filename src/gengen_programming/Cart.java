@@ -1,3 +1,4 @@
+//Cartを作るための設計図
 package gengen_programming;
 
 public class Cart {
